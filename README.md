@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Amir Mohammad </h1>
 <h3 align="center"> A software engineer and Android developer </h3>
 
-- 👀 I’m interested in software, web and ML engineering/development
+- 👀 I’m interested in software and Moblie programs
 
-- 🔭 I’m currently working on **Smart and inovative applicaitons**
-
-- 💬 Ask me about **Flutter, Python, Machine learning and Deep learning**
+- 🔭 I’m currently working on Kotlin and Flutter
 
 - 📫 How to reach me **amirmonasiri@gmail.com**
 
@@ -14,9 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,apple,swift,python,tensorflow,pytorch,c,cpp,qt)](https://skillicons.dev)
   
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdijamebozorg&show_icons=true&locale=en&layout=compact&theme=dark" alt="mahdijamebozorg" />
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
