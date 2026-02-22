@@ -13,5 +13,7 @@
 
 🛠️ Tech Stack
 <p align="center">
-<a href="https://instagram.com/amirmonasiri" target="blank"><img align="center" src="https://cdn.simpleicons.org/instagram" alt="amirmonasiri" height="30" width="40" /></a>
+<a href="https://kotlinlang.org" target="blank"><img align="center" src="https://cdn.simpleicons.org/kotlin/FFF" alt="kotlin logo" height="30" width="40" /></a>
+<a href="https://developer.android.com/compose" target="blank"><img align="center" src="https://cdn.simpleicons.org/jetpackcompose/FFF" alt="jetpack compose logo" height="30" width="40" /></a>
+
 </p>
