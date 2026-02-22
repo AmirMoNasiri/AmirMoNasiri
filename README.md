@@ -11,9 +11,7 @@
 
 ---
 
-🛠️ Tech Stack
+<h3 align="left">🛠️ Tech Stack</h3>
 <p align="center">
 <a href="https://kotlinlang.org" target="blank"><img align="center" src="https://github.com/gilbarbara/logos/blob/main/logos/kotlin-icon.svg" alt="kotlin logo" height="30" width="40" /></a>
-
-
 </p>
