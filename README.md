@@ -13,7 +13,7 @@
 
 🛠️ Tech Stack
 <p align="center">
-<a href="https://kotlinlang.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/kotlin-logo.svg" alt="kotlin logo" height="30" width="40" /></a>
+<a href="https://kotlinlang.org" target="blank"><img align="center" src="https://github.com/gilbarbara/logos/blob/main/logos/kotlin-icon.svg" alt="kotlin logo" height="30" width="40" /></a>
 
 
 </p>
