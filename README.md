@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Amir 👋
+# Hi, I'm Amir Mohammad 👋
 
-### Android Developer | Kotlin Enthusiast | Software Developer
+### Android Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1C39BB&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+Enthusiast;Software+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
