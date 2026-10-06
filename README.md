@@ -2,8 +2,6 @@
 
 # Hi, I'm Amir Mohammad 👋
 
-### Android Developer
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1C39BB&center=true&vCenter=true&width=500&lines=Android+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <p align="center">
@@ -54,8 +52,8 @@ Hi! I'm **Amir Mohammad**, a software developer interested in building modern, c
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="YOUR_TODOYAR_REPOSITORY">
-        <img src="YOUR_TODOYAR_IMAGE" width="100%" alt="To Do Yar" />
+      <a href="https://github.com/AmirMoNasiri/ToDoYar/">
+        <img src="https://github.com/AmirMoNasiri/ToDoYar/blob/main/assets/ToDoYar_Tamneel.png" width="100%" alt="To Do Yar" />
         <br />
         <b>📱 To Do Yar</b>
       </a>
