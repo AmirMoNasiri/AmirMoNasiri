@@ -55,7 +55,6 @@ Hi! I'm **Amir Mohammad**, a software developer interested in building modern, c
       <a href="https://github.com/AmirMoNasiri/ToDoYar/">
         <img src="https://github.com/AmirMoNasiri/ToDoYar/blob/main/assets/ToDoYar_Tamneel.png" width="100%" alt="To Do Yar" />
         <br />
-        <b>📱 To Do Yar</b>
       </a>
       <br />
       <sub>
