@@ -227,7 +227,7 @@ function enhance(svg, theme, contributionTotal) {
       /<rect class="u u([1-9]\d*)"[^>]*\/>/g,
       ""
     );
-
+  
   const defs = `
   <defs>
     <linearGradient id="progressGradient" x1="0" y1="0" x2="1" y2="0">
@@ -236,30 +236,16 @@ function enhance(svg, theme, contributionTotal) {
     </linearGradient>
 
     <clipPath id="progressClip">
-      <rect
-        x="2"
-        y="152"
-        width="844.6"
-        height="16"
-        rx="8"
-      />
+      <rect x="2" y="152" width="844.6" height="16" rx="8" />
     </clipPath>
 
-    <clipPath
-      id="snakeGridClip"
-      clipPathUnits="userSpaceOnUse"
-    >
-      <rect
-        x="0"
-        y="0"
-        width="848"
-        height="112"
-      />
+    <clipPath id="snakeGridClip" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="848" height="112" />
     </clipPath>
   </defs>`;
 
   svg = svg.replace(
-    /(<desc>[\s\S]*?<\/desc>)/,
+    /(<svg[^>]*>)/,
     `$1${defs}`
   );
 
@@ -267,6 +253,7 @@ function enhance(svg, theme, contributionTotal) {
     /((?:<rect class="s s\d+"[^>]*\/>\s*)+)/,
     '<g clip-path="url(#snakeGridClip)">$1</g>'
   );
+
 
   const extraCss = `
   .frame-text{
