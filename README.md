@@ -39,7 +39,7 @@ Hi! I'm **Amir Mohammad**, a software developer interested in building modern, c
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,java,dart,flutter,gradle,git,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,gradle,androidstudio,figma,firebase,postman,git,linux" alt="Tech Stack" />
 </p>
 
 **Main technologies:**
